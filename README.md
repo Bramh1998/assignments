@@ -5,3 +5,5 @@ This repository contains my assignments
 [Assignment wekk 5](https://github.com/Mimis5/assignments/blob/master/Assignment_week_5%20(1).ipynb)
 [Assignment week 6](https://github.com/Mimis5/assignments/blob/master/assignment4-1.ipynb)
 [Assignment week 8](https://github.com/Mimis5/assignments/blob/master/assignment5%20(1).ipynb)
+[Final Python assignment](https://github.com/Mimis5/assignments/blob/master/Final_Python.ipynb)
+[Final R assignment](https://github.com/Mimis5/assignments/blob/master/Final_R_assignment.ipynb)
